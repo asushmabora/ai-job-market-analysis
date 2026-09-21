@@ -1,0 +1,19 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment / secrets
+.env
+
+# Windows
+Thumbs.db
+
+data/jobs_in _data_.xlsx
+data/linkedin_three.xlsx
