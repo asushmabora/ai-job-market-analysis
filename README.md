@@ -516,7 +516,7 @@ SQL file:
 
 
 
-`sql/postgersql.sql`
+`postgersql.sql`
 
 
 
